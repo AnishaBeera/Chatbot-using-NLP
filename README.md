@@ -16,5 +16,7 @@ Web Framework: Flask (or another framework if applicable)
 
 ## Acknowledgments
 TensorFlow for the deep learning framework.
+
 Keras for the high-level neural networks API.
+
 NLTK and spaCy for natural language processing tools.
